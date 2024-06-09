@@ -1,4 +1,4 @@
-This is my Posts App build on React using TypeScript, React Router and React Transition Group
+# This is my Posts App build on React using TypeScript, React Router and React Transition Group
 
 🧑‍💻Functionality:
 
